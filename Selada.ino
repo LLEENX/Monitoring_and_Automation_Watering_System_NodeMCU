@@ -10,12 +10,12 @@
 
 DHT dht(DHTPIN, DHTTYPE);
 
-const char* ssid = "YOUR_WIFI_SSID";       
-const char* password = "YOUR_WIFI_PASSWORD"; 
+const char* ssid = "Rifal Y";       
+const char* password = "tanya saya dulu"; 
 
 WiFiClient client;
-unsigned long myChannelNumber = YOUR_CHANNEL_NUMBER_THINGSPEAK; 
-const char* myWriteAPIKey = "YOUR_WRITE_API_THINGSPEAK";
+unsigned long myChannelNumber = 2601551; 
+const char* myWriteAPIKey = "1RQ3IA55KOGV6FC4";
 
 // Interval Decision Relay ON/OFF
 const unsigned long wateringInterval = 60000; // 1 menit

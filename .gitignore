@@ -1,2 +1,1 @@
-# Ignore all .ino files
-Program NodeMCU/*.ino
+Program NodeMCU/Selada.ino

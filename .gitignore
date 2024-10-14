@@ -1,2 +1,2 @@
 # Ignore all .ino files
-*.ino
+Program NodeMCU/*.ino
